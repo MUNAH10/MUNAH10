@@ -1,4 +1,4 @@
-<img align="centre" src="https://assets.toptal.io/images?url=https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/951302/retina_500x200_cover-default-cover-9-e9e2a4e027551681be020a158ca8db2c.png" />
+<!-- <img align="centre" src="https://assets.toptal.io/images?url=https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/951302/retina_500x200_cover-default-cover-9-e9e2a4e027551681be020a158ca8db2c.png" /> -->
 
 
 - 👋, Hello There!
