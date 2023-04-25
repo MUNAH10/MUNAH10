@@ -4,7 +4,7 @@
 - 👋, Hello There!
 - I'm Muna Hassan
 - A passionate frontend developer from Nairobi, Kenya.
-<!--   <img align="right" src= "https://www.shutterstock.com/image-illustration/woman-programmer-work-silhouette-girl-600w-2205630025.jpg" /> -->
+   <img align="right" src= "https://www.shutterstock.com/image-illustration/woman-programmer-work-silhouette-girl-600w-2205630025.jpg" /> 
 - 🔭 I’m currently working on **Calculator-App**
 - 🌱 I’m currently learning **Ruby and Rails**
 - 📫 How to reach me **munahassan5075@gmail.com**
